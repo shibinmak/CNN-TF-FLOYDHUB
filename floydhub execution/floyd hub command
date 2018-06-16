@@ -1,0 +1,1 @@
+floyd run --data shibinmak/datasets/vehicles/1:/input --gpu --env tensorflow-1.8 --mode jupyter
